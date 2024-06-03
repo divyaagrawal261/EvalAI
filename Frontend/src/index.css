@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.postlist{
+  background-image: url(../src/assets/bg.webm);
+}
